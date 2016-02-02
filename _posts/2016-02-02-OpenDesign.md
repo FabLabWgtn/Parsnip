@@ -13,9 +13,9 @@ Open 3D printing.
 Business starting websites
 Design blogs
 Open design CAD software
-Open software development (coding)
+Open software development (coding)</p>
 
-Key people/ institutions/ Organisations/ companies involved and affected:
+<p>Key people/ institutions/ Organisations/ companies involved and affected:
 Website owners
 Product design firms
 Advertising firms
@@ -27,6 +27,8 @@ industrial designers
 Hardware designers
 Universities
 Fablab
-Institutes of Technology
+Institutes of Technology</p>
 
-Sites such as http://www.thingiverse.com/ and http://www.instructables.com/ are key networks for sharing open-design projects and fully downloadable free content from simple DIY furniture to electronics.- Team Parsnip</p>
+<p>Sites such as http://www.thingiverse.com/ and http://www.instructables.com/ are key networks for sharing open-design projects and fully downloadable free content from simple DIY furniture to electronics.</p>
+
+<p>- Team Parsnip</p>
