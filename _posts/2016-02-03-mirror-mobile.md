@@ -4,7 +4,7 @@ title: Mirror Mobiles
 ---
 
 
-![mm]({{site.baseurl}}/images/mirror-mobiles1.jpg)
+![mm]({{site.baseurl}}/images/Mirror-mobiles1.jpg)
 
 [Article Source](http://www.dezeen.com/2016/01/12/elkeland-mirror-mobiles-simple-reflective-shapes-danish-design-northmodern/)
 <p>Elkeland, a Danish design studio created a series mirrored mobiles built from simple linear geometric shapes that reflect light within a space. They are designed to "interfere with the perception of space". </p>
@@ -17,7 +17,7 @@ title: Mirror Mobiles
 <p>"I was interested in the way mirror interferes with the perception of space, particularly when it is in oblique angles."<p/p>
 
 
-![mm2]({{site.baseurl}}/images/mirror-mobiles2.jpg)
+<p>![mm2]({{site.baseurl}}/images/Mirror-mobiles2.jpg) </p/p>
 
 <p>While the Ellipse model is made up of only one shape, the Halfmoons and Stairs models come in two parts, and can be hung this mobile in several different ways due to the sliding intersection of the brass sticks.
  </p>
