@@ -3,8 +3,7 @@ layout: post
 title: Mirror Mobiles
 ---
 
-
-![mm]({{site.baseurl}}/images/Mirrormobiles1.jpg)
+![mm]({{site.baseurl}}/images/Mirrormobile1.jpg)
 
 [Article Source](http://www.dezeen.com/2016/01/12/elkeland-mirror-mobiles-simple-reflective-shapes-danish-design-northmodern/)
 
@@ -18,7 +17,7 @@ title: Mirror Mobiles
 <p>"I was interested in the way mirror interferes with the perception of space, particularly when it is in oblique angles." </p>
 
 
-![mm2]({{site.baseurl}}/images/Mirrormobiles2.jpg) 
+![mm2]({{site.baseurl}}/images/Mirrormobile2.jpg) 
 
 <p>While the Ellipse model is made up of only one shape, the Halfmoons and Stairs models come in two parts, and can be hung this mobile in several different ways due to the sliding intersection of the brass sticks.
  </p>
