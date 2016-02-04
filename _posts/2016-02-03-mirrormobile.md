@@ -21,4 +21,4 @@ title: Mirror Mobiles
 
 <p>While the Ellipse model is made up of only one shape, the Halfmoons and Stairs models come in two parts, and can be hung this mobile in several different ways due to the sliding intersection of the brass sticks.</p>
 
-<p>Team Parsnip  </p> 
+<p>Team Parsnip</p> 
