@@ -7,6 +7,7 @@ title: Mirror Mobiles
 ![mm]({{site.baseurl}}/images/Mirror-mobiles1.jpg)
 
 [Article Source](http://www.dezeen.com/2016/01/12/elkeland-mirror-mobiles-simple-reflective-shapes-danish-design-northmodern/)
+
 <p>Elkeland, a Danish design studio created a series mirrored mobiles built from simple linear geometric shapes that reflect light within a space. They are designed to "interfere with the perception of space". </p>
 
 <p>Materials of double-sided mirrored acrylic, brass sticks and beeswax-treated flax string are hand assembled into a small range of simple linear shapes, from ‘Halfmoons’ to ‘Ellipses’ and ‘Stairs’.</p>
