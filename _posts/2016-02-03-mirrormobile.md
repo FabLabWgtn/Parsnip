@@ -11,7 +11,7 @@ title: Mirror Mobiles
 
 <p>Materials of double-sided mirrored acrylic, brass sticks and beeswax-treated flax string are hand assembled into a small range of simple linear shapes, from ‘Halfmoons’ to ‘Ellipses’ and ‘Stairs’.</p>
 
-<p>"Mirror mobiles provide a subtle play of light. With the particular composition of reflective materials, they suggest an altered perception on geometric shapes, space and surfaces." ," Elkeland founder/designer Ida Elke. </p>
+<p>"Mirror mobiles provide a subtle play of light. With the particular composition of reflective materials, they suggest an altered perception on geometric shapes, space and surfaces." Elkeland founder/designer Ida Elke. </p>
 
 
 <p>"I was interested in the way mirror interferes with the perception of space, particularly when it is in oblique angles." </p>
