@@ -1,6 +1,6 @@
 ---
 layout: post
-title:prototype 2
+title: prototype 2
 ---
 
 
