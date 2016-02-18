@@ -8,4 +8,4 @@ title: Circuit Issues
 <p>	video showing initial issues with the lighting circuit
 </p>
 
-<p> We had continuious issues with the arduino circuit, this video shows the circuit and the sensor working but the LED's flickering. We later discovered that the number of LED's we were trying to power required more voltage than our wall plug allowed for.  </p>
+<p> We had continuious issues with the arduino circuit, this video shows the circuit and the sensor working but the LED's flickering. We later discovered that the number of LED's we were trying to power required more amps than we were putting through our power supply. The amount of amps we were originally putting through was only enough to power 2 of the lED's to theirs brightest. To combat this problem we cut the wire connecting from the LED port in our Fabduino and to our LED port in our mini circuit board and re-connected a 10k resistor between the cut wires. This enabled the power to run through all LED's and power them at full brightness. </p>
