@@ -7,4 +7,4 @@ title: Further Logo developments
 
 <p>Final Logo<p/>
 
-<p>![image]({{site.baseurl}}/images/logo.png)</p>
+![image]({{site.baseurl}}/images/logo.png)</p>
