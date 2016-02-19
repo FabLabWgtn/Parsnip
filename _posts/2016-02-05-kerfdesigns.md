@@ -1,5 +1,7 @@
 ---
-layout:Kerf design Concepts
+layout: Post
+title: Kerf design Concepts
+date: 2016-02-05 13:39:28 +1300
 ---
 
 ![image]({{site.baseurl}}/images/kerfd.jpg)
